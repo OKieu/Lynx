@@ -1,6 +1,6 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: #f0f8ff;
+    background-color: #cbb9e8;
     color: #333;
     margin: 0;
     padding: 20px;
@@ -18,7 +18,7 @@ nav {
 nav a {
     margin: 0 15px;
     text-decoration: none;
-    color: #ff7f50;
+    color: #a58bd0;
 }
 h1 {
     color: #b22222;
