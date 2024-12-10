@@ -6,7 +6,7 @@ body {
     padding: 20px;
 }
 header {
-    background-color: #ff7f50;
+    background-color: #7b5a9c;
     color: white;
     padding: 10px 0;
     text-align: center;
@@ -26,7 +26,7 @@ footer {
     margin-top: 20px;
     text-align: center;
     padding: 10px 0;
-    background-color: #ff7f50;
+    background-color: #7b5a9c;
     color: white;
 }
 .content {
